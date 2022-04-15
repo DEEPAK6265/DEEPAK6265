@@ -1,0 +1,125 @@
+
+
+
+.img1{
+    background-image: url('img5.jpg');
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: scroll; 
+    background-repeat: no-repeat;
+}
+.nav{
+float:right;
+    
+}
+.nav li{
+    display:inline-block;
+    
+}
+.nav li a{
+    color: WHITE;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 25px;
+    margin-right: 25px; 
+       
+}
+span{
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.left{
+    color: rgb(22, 22, 206);
+    font-size: 20px;
+   
+    
+}
+
+
+.Right{
+    color:white;
+    margin-top: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+
+  .box{
+     
+    background-color:#383838;
+    border:2px solid ;
+    margin-left:700px;
+    width:100px;
+    height:30px;
+    padding-top:13px;
+    text-align:center;
+    border-radius: 21px;
+    transition: 1s;
+    cursor:pointer;
+  }
+
+  .bbb{
+          background-color:#383838;
+          border:2px solid;
+          margin-left:450px;
+          height:35px;
+          width:600px;
+        text-align:center;
+        margin-top:35px ;
+        padding-top: 13px;
+        border-radius:20px;
+        transition:1s;
+        cursor: pointer;
+
+  }
+  .logo{
+      
+    margin-left: 570px;
+    height: 70px;
+    width: 300px;
+    display: flex;
+    background-attachment: scroll;
+    margin-top:25px;
+    border-radius: 20px;
+  }
+  .home{
+    background-color: rgb(28, 28, 28);
+}
+  .logoes{
+          
+        margin:20px 20px 20px 20px;}
+.box:hover{
+    transform:scale(1.3);
+    z-index:2;
+
+}
+.bbb:hover{
+    transform:scale(1.1);
+    z-index:2;
+}
+.tnp{
+    font-size: 25px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     
+}  
+.explore{ background-color:#383838;
+border:2px solid ;
+margin-left:600px;
+width:300px;
+height:30px;
+padding-top:13px;
+text-align:center;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+background-color: aliceblue;
+font-size: 20px;
+cursor: pointer;
+transition: 1s;
+}
+.explore:hover{
+    transform:scale(1.1);
+    z-index:2;
+}
