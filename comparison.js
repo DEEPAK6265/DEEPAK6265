@@ -1,0 +1,12 @@
+var a=10;
+var b=10;
+var x=15;
+var y=15;
+var c="14";
+var d="15";
+var e=12;
+var f=12;
+console.log(a==b);
+console.log(15!=15);
+console.log(c===d);
+console.log(e<=f);
